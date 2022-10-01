@@ -4,11 +4,11 @@
 
 ### How to Run Code
 
-GitHub URL: FIX
+GitHub URL: https://github.com/aashiamehta/MachineLearning/tree/main/Project2
 
 In order to run the main code, please refer to: ```randomized_optimization.ipynb```.
 
-The dataset in the directory is:``wine_quality.csv```.
+The dataset in the directory is:```wine_quality.csv```.
 
 1. Install miniconda (https://docs.conda.io/en/latest/miniconda.html).
 2. Run the following commands to create an environment and install dependencies:
