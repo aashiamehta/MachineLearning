@@ -8,7 +8,7 @@ GitHub URL: https://github.com/aashiamehta/MachineLearning/tree/main/Project3
 
 In order to run the main code, please refer to: ```unsupervised_learning.ipynb```.
 
-The dataset in the directory is:```wine_quality.csv``` and ```phishing_websites.csv```.
+The datasets in the directory are: ```wine_quality.csv``` and ```phishing_websites.csv```.
 
 1. Install miniconda (https://docs.conda.io/en/latest/miniconda.html).
 2. Run the following commands to create an environment and install dependencies:
