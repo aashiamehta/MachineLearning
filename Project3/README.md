@@ -1,14 +1,14 @@
 # CS 7641: Machine Learning
-#### Project 2: Randomized Optimization
+#### Project 3: Unsupervised Learning
 #### By: Aashia Mehta
 
 ### How to Run Code
 
-GitHub URL: https://github.com/aashiamehta/MachineLearning/tree/main/Project2
+GitHub URL: https://github.com/aashiamehta/MachineLearning/tree/main/Project3
 
-In order to run the main code, please refer to: ```randomized_optimization.ipynb```.
+In order to run the main code, please refer to: ```unsupervised_learning.ipynb```.
 
-The dataset in the directory is:```wine_quality.csv```.
+The dataset in the directory is:```wine_quality.csv``` and ```phishing_websites.csv```.
 
 1. Install miniconda (https://docs.conda.io/en/latest/miniconda.html).
 2. Run the following commands to create an environment and install dependencies:
@@ -22,11 +22,8 @@ The dataset in the directory is:```wine_quality.csv```.
 
 ### Description
 
-In this project, I explored four local random search algorithms: 
-- randomized hill climbing
-- simulated annealing
-- a genetic algorithm
-- MIMIC
+In this project, I explored two clustering algorithms (k-means, Expectation Maximization) and four dimensionality reduction algorithms (PCA, ICA, Randomized Projections, and LDA).
 
-The dataset I used can be found here:
+The datasets I used can be found here:
+- https://archive.ics.uci.edu/ml/datasets/phishing+websites
 - https://archive.ics.uci.edu/ml/datasets/wine+quality
