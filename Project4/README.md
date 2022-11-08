@@ -1,14 +1,12 @@
 # CS 7641: Machine Learning
-#### Project 3: Unsupervised Learning
+#### Project 4: Markov Decision Processes
 #### By: Aashia Mehta
 
 ### How to Run Code
 
-GitHub URL: https://github.com/aashiamehta/MachineLearning/tree/main/Project3
+GitHub URL: https://github.com/aashiamehta/MachineLearning/edit/main/Project4
 
-In order to run the main code, please refer to: ```unsupervised_learning.ipynb```.
-
-The datasets in the directory are: ```wine_quality.csv``` and ```phishing_websites.csv```.
+In order to run the main code, please refer to: ```markov_decision_processes.ipynb```.
 
 1. Install miniconda (https://docs.conda.io/en/latest/miniconda.html).
 2. Run the following commands to create an environment and install dependencies:
@@ -22,8 +20,4 @@ The datasets in the directory are: ```wine_quality.csv``` and ```phishing_websit
 
 ### Description
 
-In this project, I explored two clustering algorithms (k-means, Expectation Maximization) and four dimensionality reduction algorithms (PCA, ICA, Randomized Projections, and LDA).
-
-The datasets I used can be found here:
-- https://archive.ics.uci.edu/ml/datasets/phishing+websites
-- https://archive.ics.uci.edu/ml/datasets/wine+quality
+In this project, I explored two interesting Markov Decision Processes (MDPs).
